@@ -1,6 +1,6 @@
 # The GYM Daily Exercise Web App
 
-This project is for GYM Lover with [The GYM Daily Exercise](https://rupakrajput19.github.io/home).
+This project is for GYM Lover with [The GYM Daily Exercise](https://rupakrajput19.github.io/gym-exercise-app).
 
 
 ![image](https://github.com/Rupakrajput19/gym-exercise-app/assets/95040772/d4794b04-c8a3-40d0-8194-cb63656d5544)
