@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gym-exercise-app/static/css/main.f6657f97.css",
+    "main.js": "/gym-exercise-app/static/js/main.5ee5a97b.js",
+    "static/js/787.c13bdfd1.chunk.js": "/gym-exercise-app/static/js/787.c13bdfd1.chunk.js",
+    "static/media/gym_home.png": "/gym-exercise-app/static/media/gym_home.2bd16c05eddf23597419.png",
+    "static/media/men_gym_home.png": "/gym-exercise-app/static/media/men_gym_home.9bd8dca666b825082035.png",
+    "index.html": "/gym-exercise-app/index.html",
+    "main.f6657f97.css.map": "/gym-exercise-app/static/css/main.f6657f97.css.map",
+    "main.5ee5a97b.js.map": "/gym-exercise-app/static/js/main.5ee5a97b.js.map",
+    "787.c13bdfd1.chunk.js.map": "/gym-exercise-app/static/js/787.c13bdfd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6657f97.css",
+    "static/js/main.5ee5a97b.js"
+  ]
+}
