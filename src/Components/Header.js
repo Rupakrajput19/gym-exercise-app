@@ -221,7 +221,7 @@ const Header = () => {
           <Button
             disableRipple
             component={Link}
-            to="/"
+            to="/home"
             sx={styles.logoContainer}
           >
             <Box alt="company logo" />
